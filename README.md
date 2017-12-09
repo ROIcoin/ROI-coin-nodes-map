@@ -1,4 +1,4 @@
-# Karbo nodes map
+# ROI coin Nodes Map
 
 Visualizes KRB nodes on the map.
 
